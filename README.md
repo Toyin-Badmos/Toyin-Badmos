@@ -29,8 +29,8 @@ With fluency in both Python and R, I wield the full spectrum of data analysis an
 ** Education **
 I hold a BA degree in Linguistics with Spanish, where I honed my analytical skills and developed a strong foundation in statistics, mathematics, and computer science. Continuously striving for excellence, I stay abreast of the latest advancements in data analytics and technology through ongoing learning and professional development initiatives. 
 
- **Portfolio**
-Explore my portfolio to witness firsthand the transformative power of data analytics and visualization. From interactive dashboards and predictive models to insightful reports and case studies, each project showcases my dedication to driving innovation and delivering value through data-driven decision-making. Let's Connect Ready to unlock the full potential of your data? Whether you're seeking to optimize operations, uncover hidden opportunities, or gain a competitive edge, I'm here to help. Let's collaborate to turn your data challenges into triumphs and chart a course toward success together.
+ **Portfolio** 
+ Explore my portfolio to witness firsthand the transformative power of data analytics and visualization. From interactive dashboards and predictive models to insightful reports and case studies, each project showcases my dedication to driving innovation and delivering value through data-driven decision-making. Let's Connect Ready to unlock the full potential of your data? Whether you're seeking to optimize operations, uncover hidden opportunities, or gain a competitive edge, I'm here to help. Let's collaborate to turn your data challenges into triumphs and chart a course toward success together.
 
 * 🌍  I'm based in London, UK.
 * ✉️  You can contact me at [toyin.badmos@yahoo.com](mailto:toyin.badmos@yahoo.com)
