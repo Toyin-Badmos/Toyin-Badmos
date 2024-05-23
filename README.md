@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Data Analyst | Excel Wizard | Visualization Maestro 
 
 
-**About Me**
+ About Me
 
 Driven by an insatiable curiosity for uncovering insights from data and equipped with a formidable arsenal of analytical tools, I am Toyin Surajudeen Badmos, a seasoned Data Analyst with a passion for transforming raw information into actionable intelligence. With a blend of technical expertise and a keen eye for detail, I thrive on the challenge of extracting meaningful patterns and trends that drive informed decision-making.  
 
