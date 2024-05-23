@@ -14,7 +14,8 @@ Advanced Excel:
 
 Excel isn't just a spreadsheet tool for me; it's a canvas where I craft intricate data models, implement sophisticated formulas, and develop dynamic dashboards that breathe life into raw data. 
 
-###Access:**
+Access:
+
 Proficient in designing and managing databases, I leverage Access to streamline data storage, retrieval, and manipulation, ensuring efficiency and accuracy in every project. 
 
 **Microsoft Azure:**
